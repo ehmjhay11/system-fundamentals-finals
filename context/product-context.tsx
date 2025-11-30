@@ -30,7 +30,7 @@ const defaultProducts: Product[] = [
     description: "Premium wireless headphones with active noise cancellation and 30-hour battery life.",
     price: 149.99,
     quantity: 15,
-    image: "/images/headphones.jpg",
+    image: "https://sony.scene7.com/is/image/sonyglobalsolutions/WH1000XM6_Primary_image_Midnight_Blue?$mediaCarouselSmall$&fmt=png-alpha",
     featured: true,
   },
   {
@@ -40,7 +40,7 @@ const defaultProducts: Product[] = [
     description: "Comfortable ergonomic chair with lumbar support and adjustable armrests.",
     price: 299.99,
     quantity: 3,
-    image: "/images/office-chair.jpg",
+    image: "https://flexispot.ph/wp-content/uploads/2021/05/C7x800x800.webp",
     featured: true,
   },
   {
@@ -50,7 +50,7 @@ const defaultProducts: Product[] = [
     description: "Double-wall insulated water bottle keeps drinks cold for 24 hours.",
     price: 34.99,
     quantity: 50,
-    image: "/images/water-bottle.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGwpbOLlVwpGC6amZ1Fqu-gcO1uoAz7a4gg&s",
   },
   {
     id: "4",
@@ -59,7 +59,7 @@ const defaultProducts: Product[] = [
     description: "RGB mechanical keyboard with Cherry MX switches and programmable keys.",
     price: 129.99,
     quantity: 8,
-    image: "/images/keyboard.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3WBSapMsbbZqV_p6sOyhhY10q_3lKEPRa4A&s",
     featured: true,
   },
 ]
